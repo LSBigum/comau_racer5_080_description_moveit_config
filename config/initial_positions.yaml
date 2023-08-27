@@ -1,0 +1,9 @@
+# Default initial positions for comau_racer5_080's ros2_control fake system
+
+initial_positions:
+  q1_joint: 0
+  q2_joint: 0
+  q3_joint: 0
+  q4_joint: 0
+  q5_joint: 0
+  q6_joint: 0

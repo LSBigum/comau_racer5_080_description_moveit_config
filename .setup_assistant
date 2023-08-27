@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: comau_racer5_080_description
+    relative_path: urdf/comau_racer5_080.xacro
+  srdf:
+    relative_path: config/comau_racer5_080.srdf
+  package_settings:
+    author_name: Laus Bigum
+    author_email: lsbigum@gmail.com
+    generated_timestamp: 1676727875
